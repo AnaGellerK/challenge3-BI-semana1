@@ -1,6 +1,6 @@
 **<h1>Challenge de BI 3ª edição - <i>1ª Semana</i> - Alura</h1>**
 
-O objetivo desse projeto foi desenvolver um dashboard para monitoramento de campanha de marketing para realizar o Challenge de BI 3ª edição - 1ª Semana.
+O objetivo desse projeto foi desenvolver um dashboard para monitoramento da campanha de marketing para realizar o Challenge de BI 3ª edição - 1ª Semana.
 
 | :placard: Vitrine.Dev | |
 | -------------  | --- |
