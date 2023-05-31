@@ -18,9 +18,11 @@ A  empresa Bloco de Código nos contratou para entender suas bases de dados e ex
 Conceitos e técnicas de BI foram utilizados para desenvolver um dashboard que suprisse as necessidades da empresa.
 
 ## Conjunto de Dados
-O conjunto de dados é formado pela planilha "campanha bloco de código".
+O nosso cliente disponibilizou 1 base de dados sobre o setor de marketing, no Excel, sendo essa base:
 
-Você pode visualizar o conjunto de dados na pasta "Datasets".
+- Tabela da campanha bloco de código
+
+Você pode visualizar o conjunto de dados na pasta [Datasets](https://github.com/AnaGellerK/challenge3-BI-semana1/tree/master/Datasets).
 
 ## Ferramenta 
 Utilizei o Power BI como ferramenta para ETL e construção do dashboard.
