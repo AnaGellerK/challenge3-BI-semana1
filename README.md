@@ -9,7 +9,7 @@ O objetivo desse projeto foi desenvolver um dashboard para monitoramento da camp
 | :rocket: URL         | https://github.com/AnaGellerK/challenge3-BI-semana1
 
 
-![image](https://github.com/AnaGellerK/challenge3-BI-semana1/assets/121059249/ad17b531-9eec-4c55-a160-d684635a602f)
+![image](https://github.com/AnaGellerK/challenge3-BI-semana1/assets/121059249/ad17b531-9eec-4c55-a160-d684635a602f#vitrinedev)
 photo by [John Schnobrich](https://unsplash.com/pt-br/@johnschno) on [Unsplash](https://unsplash.com/pt-br)
 
 ## Desafio
